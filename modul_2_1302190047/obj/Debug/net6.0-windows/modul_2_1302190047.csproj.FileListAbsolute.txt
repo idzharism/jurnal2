@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\bin\Debug\net6.0-windows\modul_2_1302190047.exe
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\bin\Debug\net6.0-windows\modul_2_1302190047.deps.json
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\bin\Debug\net6.0-windows\modul_2_1302190047.runtimeconfig.json
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\bin\Debug\net6.0-windows\modul_2_1302190047.dll
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\bin\Debug\net6.0-windows\modul_2_1302190047.pdb
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.Form1.resources
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.dll
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\refint\modul_2_1302190047.dll
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.pdb
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\modul_2_1302190047.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\modul_2_1302190047\modul_2_1302190047\obj\Debug\net6.0-windows\ref\modul_2_1302190047.dll
